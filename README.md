@@ -1,1 +1,4 @@
 # Grouped-Dilated-Convolution-Module-GDCM--based-Semantic-Segmentation-Network-with-Algorithm
+
+## Introduction
+* We proposed a grouped dilated convolution module that combines existing grouped convolutions and atrous spatial pyramid pooling techniques, which were trained with two open databases of the Cambridge Driving Labeled Video Database (CamVid) and the Stanford Background Dataset (SBD). The proposed method can learn multi-scale features more simply and effectively than existing methods. Because each convolution group has different dilations in the proposed model, they have receptive fields of different sizes and learn features corresponding to these receptive fields. As a result, multi-scale context can be easily extracted. Moreover, optimal hyper-parameters are obtained from an in-depth analysis, and excellent segmentation performance is derived
